@@ -6,7 +6,7 @@
 
 ``` bash
 1. git clone
-git clone https://github.com/wkl007/mpvue-iview-weapp
+git clone https://github.com/wkl007/mpvue-iview-weapp.git
 
 2. 安装依赖
 cd mpvue-iview-weapp && npm install
