@@ -6,7 +6,6 @@ app.$mount()
 
 export default {
   config: {
-    'navigationBarBackgroundColor': '#FAFAFA',
     'navigationBarTitleText': 'Tabs 标签页',
     usingComponents: {
       'i-panel': '../../../static/iview/panel/index',

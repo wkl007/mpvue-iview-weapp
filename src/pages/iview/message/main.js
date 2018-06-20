@@ -6,7 +6,6 @@ app.$mount()
 
 export default {
   config: {
-    'navigationBarBackgroundColor': '#FAFAFA',
     'navigationBarTitleText': 'Message 全局提醒',
     usingComponents: {
       'i-message': '../../../static/iview/message/index',

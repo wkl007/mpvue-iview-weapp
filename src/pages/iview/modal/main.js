@@ -6,7 +6,6 @@ app.$mount()
 
 export default {
   config: {
-    'navigationBarBackgroundColor': '#FAFAFA',
     'navigationBarTitleText': 'Modal 对话框',
     usingComponents: {
       'i-modal': '../../../static/iview/modal/index',

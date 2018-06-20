@@ -6,7 +6,6 @@ app.$mount()
 
 export default {
   config: {
-    'navigationBarBackgroundColor': '#FAFAFA',
     'navigationBarTitleText': 'Button 按钮',
     usingComponents: {
       'i-button': '../../../static/iview/button/index',

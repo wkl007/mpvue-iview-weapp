@@ -6,7 +6,6 @@ app.$mount()
 
 export default {
   config: {
-    'navigationBarBackgroundColor': '#FAFAFA',
     'navigationBarTitleText': 'Badge 徽章',
     usingComponents: {
       'i-badge': '../../../static/iview/badge/index',

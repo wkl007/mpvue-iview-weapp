@@ -6,7 +6,6 @@ app.$mount()
 
 export default {
   config: {
-    'navigationBarBackgroundColor': '#FAFAFA',
     'navigationBarTitleText': 'ActionSheet 动作面板',
     usingComponents: {
       'i-action-sheet': '../../../static/iview/action-sheet/index',

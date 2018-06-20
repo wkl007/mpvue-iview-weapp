@@ -6,7 +6,6 @@ app.$mount()
 
 export default {
   config: {
-    'navigationBarBackgroundColor': '#FAFAFA',
     'navigationBarTitleText': 'Color 色彩',
     usingComponents: {
       'i-card': '../../../static/iview/card/index',

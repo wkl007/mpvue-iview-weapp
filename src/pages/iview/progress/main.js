@@ -6,7 +6,6 @@ app.$mount()
 
 export default {
   config: {
-    'navigationBarBackgroundColor': '#FAFAFA',
     'navigationBarTitleText': 'Progress 进度条',
     usingComponents: {
       'i-progress': '../../../static/iview/progress/index',

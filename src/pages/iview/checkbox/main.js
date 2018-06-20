@@ -6,7 +6,6 @@ app.$mount()
 
 export default {
   config: {
-    'navigationBarBackgroundColor': '#FAFAFA',
     'navigationBarTitleText': 'Checkbox 复选',
     usingComponents: {
       'i-panel': '../../../static/iview/panel/index',

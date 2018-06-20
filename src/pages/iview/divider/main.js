@@ -6,9 +6,9 @@ app.$mount()
 
 export default {
   config: {
-    'navigationBarTitleText': 'tag',
+    'navigationBarTitleText': 'Divider 分隔符',
     usingComponents: {
-      'i-tag': '../../../static/iview/tag/index'
+      'i-divider': '../../../static/iview/divider/index'
     }
   }
 }

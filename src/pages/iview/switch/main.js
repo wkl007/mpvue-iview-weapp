@@ -6,7 +6,6 @@ app.$mount()
 
 export default {
   config: {
-    'navigationBarBackgroundColor': '#FAFAFA',
     'navigationBarTitleText': 'Switch 开关',
     usingComponents: {
       'i-switch': '../../../static/iview/switch/index',

@@ -6,7 +6,6 @@ app.$mount()
 
 export default {
   config: {
-    'navigationBarBackgroundColor': '#FAFAFA',
     'navigationBarTitleText': 'Rate 评分',
     usingComponents: {
       'i-rate': '../../../static/iview/rate/index',

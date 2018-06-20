@@ -6,7 +6,6 @@ app.$mount()
 
 export default {
   config: {
-    'navigationBarBackgroundColor': '#FAFAFA',
     'navigationBarTitleText': 'NoticeBar 通告栏',
     usingComponents: {
       'i-panel': '../../../static/iview/panel/index',

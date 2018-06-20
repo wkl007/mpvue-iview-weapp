@@ -10,6 +10,7 @@
         <i-cell title="Panel 面板" is-link url="/pages/iview/panel/main"></i-cell>
         <i-cell title="List 列表" is-link url="/pages/iview/list/main"></i-cell>
         <i-cell title="Card 卡片" is-link url="/pages/iview/card/main"></i-cell>
+        <i-cell title="Divider 分隔符" is-link url="/pages/iview/divider/main"></i-cell>
       </i-cell-group>
     </i-panel>
     <i-panel title="基础组件">
@@ -36,6 +37,7 @@
         <i-cell title="Modal 对话框" is-link url="/pages/iview/modal/main"></i-cell>
         <i-cell title="Message 全局提醒" is-link url="/pages/iview/message/main"></i-cell>
         <i-cell title="Spin 加载中" is-link url="/pages/iview/spin/main"></i-cell>
+        <i-cell title="Swipeout 滑动菜单" is-link url="/pages/iview/swipeout/main"></i-cell>
       </i-cell-group>
     </i-panel>
     <i-panel title="视图">

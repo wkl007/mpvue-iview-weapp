@@ -6,7 +6,6 @@ app.$mount()
 
 export default {
   config: {
-    'navigationBarBackgroundColor': '#FAFAFA',
     'navigationBarTitleText': 'Drawer 抽屉',
     usingComponents: {
       'i-drawer': '../../../static/iview/drawer/index',

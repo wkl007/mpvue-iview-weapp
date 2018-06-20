@@ -6,7 +6,6 @@ app.$mount()
 
 export default {
   config: {
-    'navigationBarBackgroundColor': '#FAFAFA',
     'navigationBarTitleText': 'Input 输入框',
     usingComponents: {
       'i-input': '../../../static/iview/input/index',

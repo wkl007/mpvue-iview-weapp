@@ -6,7 +6,6 @@ app.$mount()
 
 export default {
   config: {
-    'navigationBarBackgroundColor': '#FAFAFA',
     'navigationBarTitleText': 'Avatar 头像',
     usingComponents: {
       'i-avatar': '../../../static/iview/avatar/index',

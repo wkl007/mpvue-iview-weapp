@@ -6,7 +6,6 @@ app.$mount()
 
 export default {
   config: {
-    'navigationBarBackgroundColor': '#FAFAFA',
     'navigationBarTitleText': 'Spin 加载中',
     usingComponents: {
       'i-spin': '../../../static/iview/spin/index',

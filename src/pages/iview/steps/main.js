@@ -6,7 +6,6 @@ app.$mount()
 
 export default {
   config: {
-    'navigationBarBackgroundColor': '#FAFAFA',
     'navigationBarTitleText': 'Steps 步骤条',
     usingComponents: {
       'i-steps': '../../../static/iview/steps/index',

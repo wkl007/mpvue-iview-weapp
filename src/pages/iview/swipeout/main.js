@@ -6,13 +6,14 @@ app.$mount()
 
 export default {
   config: {
-    'navigationBarTitleText': 'List 列表',
+    'navigationBarTitleText': 'Swipeout 滑动菜单',
     usingComponents: {
+      'i-swipeout': '../../../static/iview/swipeout/index',
       'i-cell-group': '../../../static/iview/cell-group/index',
       'i-cell': '../../../static/iview/cell/index',
-      'i-panel': '../../../static/iview/panel/index',
+      'i-card': '../../../static/iview/card/index',
       'i-icon': '../../../static/iview/icon/index',
-      'i-switch': '../../../static/iview/switch/index',
+      'i-action-sheet': '../../../static/iview/action-sheet/index'
     }
   }
 }
