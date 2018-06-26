@@ -10,7 +10,6 @@
         <i-cell title="Panel 面板" is-link url="/pages/iview/panel/main"></i-cell>
         <i-cell title="List 列表" is-link url="/pages/iview/list/main"></i-cell>
         <i-cell title="Card 卡片" is-link url="/pages/iview/card/main"></i-cell>
-        <i-cell title="Divider 分隔符" is-link url="/pages/iview/divider/main"></i-cell>
       </i-cell-group>
     </i-panel>
     <i-panel title="基础组件">
@@ -47,6 +46,8 @@
         <i-cell title="Tag 标签" is-link url="/pages/iview/tag/main"></i-cell>
         <i-cell title="Progress 进度条" is-link url="/pages/iview/progress/main"></i-cell>
         <i-cell title="Avatar 头像" is-link url="/pages/iview/avatar/main"></i-cell>
+        <i-cell title="countDown 倒计时" is-link url="/pages/iview/count-down/main"></i-cell>
+        <i-cell title="Divider 分隔符" is-link url="/pages/iview/divider/main"></i-cell>
       </i-cell-group>
     </i-panel>
     <i-panel title="表单">
