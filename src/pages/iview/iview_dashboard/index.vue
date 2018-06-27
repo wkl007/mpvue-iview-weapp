@@ -27,6 +27,7 @@
         <i-cell title="Page 分页" is-link url="/pages/iview/page/main"></i-cell>
         <i-cell title="Steps 步骤条" is-link url="/pages/iview/steps/main"></i-cell>
         <i-cell title="NoticeBar 通告栏" is-link url="/pages/iview/notice-bar/main"></i-cell>
+        <i-cell title="index 索引选择器" is-link url="/pages/iview/index-list/main"></i-cell>
       </i-cell-group>
     </i-panel>
     <i-panel title="操作反馈">
@@ -66,10 +67,10 @@
 <script>
   export default {
     data () {
-      return {}
+      return {};
     },
     methods: {}
-  }
+  };
 </script>
 
 <style lang="less" scoped>
