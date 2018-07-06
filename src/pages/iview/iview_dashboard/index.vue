@@ -28,6 +28,7 @@
         <i-cell title="Steps 步骤条" is-link url="/pages/iview/steps/main"></i-cell>
         <i-cell title="NoticeBar 通告栏" is-link url="/pages/iview/notice-bar/main"></i-cell>
         <i-cell title="index 索引选择器" is-link url="/pages/iview/index-list/main"></i-cell>
+        <i-cell title="sticky 吸顶容器" is-link url="/pages/iview/sticky/main"></i-cell>
       </i-cell-group>
     </i-panel>
     <i-panel title="操作反馈">
@@ -47,8 +48,10 @@
         <i-cell title="Tag 标签" is-link url="/pages/iview/tag/main"></i-cell>
         <i-cell title="Progress 进度条" is-link url="/pages/iview/progress/main"></i-cell>
         <i-cell title="Avatar 头像" is-link url="/pages/iview/avatar/main"></i-cell>
-        <i-cell title="countDown 倒计时" is-link url="/pages/iview/count-down/main"></i-cell>
+        <i-cell title="CountDown 倒计时" is-link url="/pages/iview/count-down/main"></i-cell>
         <i-cell title="Divider 分隔符" is-link url="/pages/iview/divider/main"></i-cell>
+        <i-cell title="Collapse 折叠面板" is-link url="/pages/iview/collapse/main"></i-cell>
+        <i-cell title="LoadMore 页底提示" is-link url="/pages/iview/load-more/main"></i-cell>
       </i-cell-group>
     </i-panel>
     <i-panel title="表单">

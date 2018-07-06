@@ -5,6 +5,11 @@
         2018年世界杯,将于6月14日至7月15日举行
       </i-notice-bar>
     </i-panel>
+    <i-panel title="自定义颜色 通告栏">
+      <i-notice-bar backgroundcolor="#99cc66" color="#ffff66">
+        2018年世界杯,将于6月14日至7月15日举行
+      </i-notice-bar>
+    </i-panel>
     <i-panel title="icon 通告栏">
       <i-notice-bar icon="systemprompt">
         2018年世界杯,将于6月14日至7月15日举行
@@ -17,6 +22,9 @@
     </i-panel>
     <i-panel title="滚动 通告栏">
       <i-notice-bar icon="systemprompt" loop>
+        2018年世界杯,将于6月14日至7月15日举行;2018年世界杯,将于6月14日至7月15日举行;
+      </i-notice-bar>
+      <i-notice-bar icon="systemprompt" loop speed="200">
         2018年世界杯,将于6月14日至7月15日举行;2018年世界杯,将于6月14日至7月15日举行;
       </i-notice-bar>
     </i-panel>

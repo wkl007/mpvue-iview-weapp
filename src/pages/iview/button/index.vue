@@ -1,6 +1,11 @@
 <template>
   <div>
     <i-panel title="一般用法"></i-panel>
+
+    <i-button @click="handleClick" inline>行内按钮</i-button>
+    <i-button @click="handleClick" inline type="primary">行内按钮</i-button>
+    <i-button @click="handleClick" inline type="success">行内按钮</i-button>
+
     <i-button @click="handleClick">默认按钮</i-button>
     <i-button @click="handleClick" type="error" long="true">联通两边按钮</i-button>
     <i-button @click="handleClick" type="primary">Primary</i-button>
