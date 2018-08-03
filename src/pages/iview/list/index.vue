@@ -29,7 +29,7 @@
         <i-cell title="只显示箭头" is-link></i-cell>
         <i-cell title="跳转到首页" is-link url="/pages/iview/iview_dashboard/main"></i-cell>
         <i-cell title="只有 footer 点击有效" is-link url="/pages/iview/iview_dashboard/main" only-tap-footer></i-cell>
-        <div v-if="show">
+        <div v-if="switch1">
           <i-cell title="单行列表" label="附加描述" value="详细信息"></i-cell>
           <i-cell title="表单">
             <input slot="footer" type="digit" placeholder="带小数点的数字键盘"/>
@@ -53,7 +53,6 @@
   export default {
     data () {
       return {
-        show: true,
         switch1: true
       }
     },
