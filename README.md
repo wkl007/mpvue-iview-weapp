@@ -15,7 +15,7 @@ cd mpvue-iview-weapp && npm install
 npm run dev
 
 4. 预览
-打开微信开发者工具，新建项目，将目录指向 /dist 即可
+打开微信开发者工具，新建项目，将目录指向 /dist/wx 即可
 ```
 
 ## 问题
